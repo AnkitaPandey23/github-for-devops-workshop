@@ -24,3 +24,14 @@ ls
   26 git config --global user.name "name"
   27 git commit -m "added testing file"
   28 git status
+
+  2 git status
+   3 git add .
+   4 git commit -m "commands file added"
+   5 git status
+   7 git remote add origin https://github.com/AnkitaPandey23/github-for-devops-workshop.git  
+   8 git remote -v
+   9 git status
+  10 git remote set-url origin https://github.com...
+  11 git remote -v
+  12 git push origin master
