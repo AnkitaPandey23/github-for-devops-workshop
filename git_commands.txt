@@ -1,0 +1,26 @@
+ls
+   4 ls -l
+   5 ls -a
+   6 rm testing.py
+   7 ls
+   8 ls -l
+   9 git init\
+  10 git init\
+  11 git init
+  12 ls -l
+  13 ls -a
+  14 dir
+  15 ls
+  16 dir -a
+  17 dir -l
+  18 git init
+  19 git status
+  20 ls
+  21 git status
+  22 git add testing.py
+  23 git status
+  24 git commit -m "added testing file"
+  25 git config --global user.email "email"
+  26 git config --global user.name "name"
+  27 git commit -m "added testing file"
+  28 git status
